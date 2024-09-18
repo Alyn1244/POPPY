@@ -5,7 +5,7 @@ body{
     background-size:cover;
     background-attachment:fixed;
 }
-#poppy-branch-img{
+.poppy-branch-img{
     position: absolute;
     padding-left: 65%;
     padding-top: -50px;
@@ -13,7 +13,7 @@ body{
     margin: 0;
 
 }
-#qoutes{
+.qoutes{
     font-size: 20px;
     color: #edd8e3;
     text-shadow: 2px 2px 4px #000000;
@@ -29,7 +29,7 @@ body{
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-#troll-logo{
+.troll-logo{
     font-size: 190px;
     font-family: cursive;
     color: #ffb2df;
@@ -43,7 +43,7 @@ body{
     width: 400px;
     margin: 0;
 }
-#troll-name{
+.troll-name{
     font-size: 30px;
     color: #ffffff;
     position: absolute;
@@ -53,14 +53,14 @@ body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-#poppy-img{
+.poppy-img{
     position: absolute;
     padding-left: 50px;
     padding-top: 600px;
     width: 500px;
     margin: 0;
 }
-#poppy-about{
+.poppy-about{
     font-size: 20px;
     color: #ffe6fa;
     padding-top: 800px;
@@ -70,14 +70,14 @@ body{
     width: 50%; 
     font-family: Arial, Helvetica, sans-serif;
 }
-#branch-img{
+.branch-img{
     position: absolute;
     padding-left: 70%;
     padding-top: 900px;
     width: 400px;
     margin: 0;
 }
-#branch-about{
+.branch-about{
     font-size: 20px;
     color:#ffe6fa;
     padding-top: 75%;
@@ -87,9 +87,11 @@ body{
     width: 50%;
     font-family: Arial, Helvetica, sans-serif;
 }
-#footer{
+.footer{
     font-size: 20px;
     color: #fdfdcb;
     padding-top: 1500px;
+    padding-left: 600px;
+    position: absolute;
     text-align: center;
 }
