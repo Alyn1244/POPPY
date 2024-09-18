@@ -1,0 +1,95 @@
+body{
+    background-image:url(img/background6.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+#poppy-branch-img{
+    position: absolute;
+    padding-left: 65%;
+    padding-top: -50px;
+    width: 500px;
+    margin: 0;
+
+}
+#qoutes{
+    font-size: 20px;
+    color: #edd8e3;
+    text-shadow: 2px 2px 4px #000000;
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    padding-top: 400px;
+    padding-left: 350px;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#troll-logo{
+    font-size: 190px;
+    font-family: cursive;
+    color: #ffb2df;
+    padding-left: 150px;
+    padding-top: 50px;
+    font-weight: bold;
+    position: absolute;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px #ffffff;
+    opacity: 2;
+    width: 400px;
+    margin: 0;
+}
+#troll-name{
+    font-size: 30px;
+    color: #ffffff;
+    position: absolute;
+    text-shadow: 2px 2px 4px #000000;
+    padding-top: 550px;
+    padding-left: 70%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#poppy-img{
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 600px;
+    width: 500px;
+    margin: 0;
+}
+#poppy-about{
+    font-size: 20px;
+    color: #ffe6fa;
+    padding-top: 800px;
+    margin-left: 500px;
+    letter-spacing: 1.5px;
+    position: absolute;
+    width: 50%; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#branch-img{
+    position: absolute;
+    padding-left: 70%;
+    padding-top: 900px;
+    width: 400px;
+    margin: 0;
+}
+#branch-about{
+    font-size: 20px;
+    color:#ffe6fa;
+    padding-top: 75%;
+    margin-left: 300px;
+    letter-spacing: 1.5px;
+    position: absolute;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer{
+    font-size: 20px;
+    color: #fdfdcb;
+    padding-top: 1500px;
+    text-align: center;
+}
